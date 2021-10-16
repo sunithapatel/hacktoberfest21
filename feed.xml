@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/hacktoberfest21/feed.xml" rel="self" type="application/atom+xml" /><link href="/hacktoberfest21/" rel="alternate" type="text/html" /><updated>2021-10-16T22:31:38+00:00</updated><id>/hacktoberfest21/feed.xml</id><title type="html">HacktoberFest at Women Who Code</title><subtitle>Your Journey towards Open Source</subtitle><author><name>Women Who Code</name></author><entry><title type="html">Beginner’s checklist for Hacktoberfest</title><link href="/hacktoberfest21/resources/jekyll/update/res/2021/10/07/beginners-checklist.html" rel="alternate" type="text/html" title="Beginner’s checklist for Hacktoberfest" /><published>2021-10-07T00:00:00+00:00</published><updated>2021-10-07T00:00:00+00:00</updated><id>/hacktoberfest21/resources/jekyll/update/res/2021/10/07/beginners-checklist</id><content type="html" xml:base="/hacktoberfest21/resources/jekyll/update/res/2021/10/07/beginners-checklist.html">&lt;p&gt;If you are excited for the Hacktoberfest let us drive into a quick checklist you can follow as beginners&lt;/p&gt;
+
+&lt;p&gt;&lt;kbd&gt; &lt;img src=&quot;/hacktoberfest21/img/beginnerchecklist.png&quot; width=&quot;1000&quot; height=&quot;500&quot; /&gt;&lt;kbd&gt;&lt;/kbd&gt;&lt;/kbd&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+:heavy_check_mark: Sign up to get a &lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt; or &lt;a href=&quot;https://gitlab.com/users/sign_in?__cf_chl_jschl_tk__=pmd_8kGs9wFi9H6KRoU.nU5zs3A1UZwJb39GFugIxxbrm_U-1633601071-0-gqNtZGzNAlCjcnBszQsR&quot;&gt;GitLab&lt;/a&gt; account.&lt;/p&gt;
+
+&lt;p&gt;:heavy_check_mark: Sign up on the &lt;a href=&quot;https://hacktoberfest.digitalocean.com/register&quot;&gt;Official Hacktoberfest&lt;/a&gt;website. &lt;strong&gt;Make sure to do it between October 1st and October 31st&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;:heavy_check_mark: Search for ‘hacktoberfest’ topic to know if a project is participating in Hacktoberfest&lt;/p&gt;
+
+&lt;p&gt;:heavy_check_mark: Read through the &lt;strong&gt;code carefully&lt;/strong&gt; and also look through the issues. It will have important clues on where you can do a PR&lt;/p&gt;
+
+&lt;p&gt;:heavy_check_mark: Make a Pull Request to the repository with the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;hacktoberfest&lt;/code&gt; tag&lt;/p&gt;
+
+&lt;p&gt;:heavy_check_mark: You need to make &lt;u&gt; four commits with the &quot;hacktoberfest&quot; tag by October 31st 2021&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;:x: If your commit is tagged as &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;invalid&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;spam&lt;/code&gt;, then it won’t be counted towards Hacktoberfest&lt;/p&gt;
+
+&lt;p&gt;:thinking: Don’t know where to start?&lt;/p&gt;
+
+&lt;p&gt;:point_right: Check out the Technical Stack Repositories on this website! Start with the stack you know well and go through the beginner friendly repositories.&lt;/p&gt;
+
+&lt;p&gt;:question: Have any questions? Reach out us using the email :e-mail: icon below&lt;/p&gt;</content><author><name>Women Who Code</name></author><category term="resources" /><category term="jekyll" /><category term="update" /><category term="res" /><summary type="html">If you are excited for the Hacktoberfest let us drive into a quick checklist you can follow as beginners</summary></entry><entry><title type="html">Recommender Resources for Beginners</title><link href="/hacktoberfest21/resources/jekyll/update/res/2021/10/04/recommended-resources.html" rel="alternate" type="text/html" title="Recommender Resources for Beginners" /><published>2021-10-04T00:00:00+00:00</published><updated>2021-10-04T00:00:00+00:00</updated><id>/hacktoberfest21/resources/jekyll/update/res/2021/10/04/recommended-resources</id><content type="html" xml:base="/hacktoberfest21/resources/jekyll/update/res/2021/10/04/recommended-resources.html">&lt;h2 id=&quot;recommended-resources-for-beginners&quot;&gt;Recommended Resources for Beginners&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop&quot;&gt;GitHub Desktop Tutorial&lt;/a&gt;
+If you’re not familiar with CLI (Command Line Interface), take a look into GitHub Desktop, which is a GUI that helps beginners start with Git.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.firsttimersonly.com&quot;&gt;First Timers Only&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/firstcontributions/first-contributions&quot;&gt;first-contribution&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://up-for-grabs.net&quot;&gt;Up for Grabs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/mungell/awesome-for-beginners&quot;&gt;Awesome For Beginners&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/szabgab/awesome-for-non-programmers&quot;&gt;Awesome For Non-Programmers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://git-scm.com/docs/gittutorial&quot;&gt;Git Tutorial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://hacktoberfest.digitalocean.com/resources/beginners&quot;&gt;Other resources on Hacktoberfest official website&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Source: &lt;a href=&quot;https://hacktoberfest.digitalocean.com/resources&quot;&gt;Hacktoberfest website&lt;/a&gt;*&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Sunitha Patel</name></author><category term="resources" /><category term="jekyll" /><category term="update" /><category term="res" /><summary type="html">Recommended Resources for Beginners</summary></entry><entry><title type="html">Maintainer’s checklist for Hacktoberfest</title><link href="/hacktoberfest21/resources/jekyll/update/res/2021/10/03/maintainer-guide-to-hacktoberfest21.html" rel="alternate" type="text/html" title="Maintainer’s checklist for Hacktoberfest" /><published>2021-10-03T00:00:00+00:00</published><updated>2021-10-03T00:00:00+00:00</updated><id>/hacktoberfest21/resources/jekyll/update/res/2021/10/03/maintainer-guide-to-hacktoberfest21</id><content type="html" xml:base="/hacktoberfest21/resources/jekyll/update/res/2021/10/03/maintainer-guide-to-hacktoberfest21.html">&lt;h1 id=&quot;how-to-make-your-project-ready-for-hacktoberfest&quot;&gt;How to make your project ready for HacktoberFest&lt;/h1&gt;
+
+&lt;p&gt;Participating in HacktoberFest as a maintainer is a great way to get volunteers and contributors to help build and grow your project. Here is a quick checklist that you can use to make your project HacktoberFest friendly:&lt;/p&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;First you need to let potential HacktoberFest contributors know that you are participating in HacktoberFest and that your project needs help. To do that, add the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Hacktoberfest&lt;/code&gt; topics to your project. To do that, click on the gear icon to the right side of the About section on your repository’s main page. Then add the topic!&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Next you need to help folks know where they can contribute by pointing them to tasks or issues that you need help with. To do that, apply the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Hacktoberfest&lt;/code&gt; label to issues in your repository. To do that, click on the Issues tab (you will find this below your repo name), then click on the Labels button besides the search bar and click the green New label button!&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Finally, you need to add a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CONTRIBUTING.md&lt;/code&gt; file to your repo with instructions for how to contribute to your project. Contributing to new projects can seem like an uphill task, especially for new open-source contributors. Adding a contributing guideline will further help contributors to get started!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;recommendations-on-accepting-contributions&quot;&gt;Recommendations on Accepting Contributions&lt;/h2&gt;
+
+&lt;p&gt;Once you make your project ready for HacktoberFest, you might find your project getting a lot of PRs or you might have folks reaching out to you for help. This might feel overwhelming. Here are some recommendations to help make the process smoother for you.&lt;/p&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Make sure that the issues you created are descriptive and have well-defined scopes and objectives. This will help contributors get started with the issue and they will know exactly what to fix. Issues with unclear requirements or goals can make it difficult for folks to know whether their work meets the objective of the issue&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Add a Code of Conduct to your repository. You can create your own code of conduct or choose one from a template. To do that click Add file and then Create new file in your repository’s main page. then type &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CODE_OF_CONDUCT.md&lt;/code&gt;in the name of the file and code a template!&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Finally, once you see contributions comming in, make sure to review PRs and give contributors helpful comments. This will keep them motivated to continue contributing! You may also see some invalid or spammy PRs. Feel free to invalidate them and mark them as &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;invalid&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;spam&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;maintainer-recognition&quot;&gt;Maintainer Recognition&lt;/h2&gt;
+
+&lt;p&gt;As a maintainer you are going to be doing some really hard work helping folks and reviewing PRs. You should be recognized for that!&lt;/p&gt;
+
+&lt;p&gt;Thankfully this time HacktoberFest will also send a t-shirt pack to maintainers as well! To get it, make sure that you register as a maintainer for HacktoberFest and approve or invalidate at least 4 PR. You can also add the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;hacktoberfest-accepted&lt;/code&gt; label or the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;invalid&lt;/code&gt;/&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;spam&lt;/code&gt; label to PRs.&lt;/p&gt;
+
+&lt;p&gt;We hope this guide will help you get started with becoming a maintainer for HacktoberFest. We can’t wait to see the projects you will build!&lt;/p&gt;</content><author><name>Women Who Code</name></author><category term="resources" /><category term="jekyll" /><category term="update" /><category term="res" /><summary type="html">How to make your project ready for HacktoberFest</summary></entry><entry><title type="html">Guide to Hacktoberfest 2021</title><link href="/hacktoberfest21/others/jekyll/update/2021/09/30/guide-to-hacktoberfest21.html" rel="alternate" type="text/html" title="Guide to Hacktoberfest 2021" /><published>2021-09-30T00:00:00+00:00</published><updated>2021-09-30T00:00:00+00:00</updated><id>/hacktoberfest21/others/jekyll/update/2021/09/30/guide-to-hacktoberfest21</id><content type="html" xml:base="/hacktoberfest21/others/jekyll/update/2021/09/30/guide-to-hacktoberfest21.html">&lt;p&gt;Hi there!&lt;/p&gt;
+
+&lt;p&gt;If you’re reading this blog post, you’re probably going to participate in Hacktoberfest 2021 or are thinking of it. Without any more chit chat, let’s get you equipped with all you may need to know/do to get started! These aren’t exhaustive but just some of the things that you may need to keep in mind :)&lt;/p&gt;
+
+&lt;p&gt;Before anything, it may get you up to speed to visit the official website for Hacktoberfest 2021 - specifically, the &lt;a href=&quot;https://hacktoberfest.digitalocean.com/faq&quot;&gt;FAQ section&lt;/a&gt; there. You will have answers for anything ranging from what is Open Source and Hacktoberfest and how you can participate to questions about submitted PRs(Pull Requests) and their eligibility for Hacktoberfest.&lt;/p&gt;
+
+&lt;h2 id=&quot;some-important-terms-to-know&quot;&gt;Some important terms to know&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Open Source Software(OSS) - software whose code that is accessible by everybody to change or add to (RedHat has an amazing &lt;a href=&quot;https://www.redhat.com/en/topics/open-source/what-is-open-source&quot;&gt;article&lt;/a&gt; on it that you may want to check out)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Version control - a way of syncing multiple collaborators versions on a shared project&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;GitHub - service that hosts stores all of our source code within repositories or projects along with other functionalities&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Git - software that provides version control, tracking and any functionality to make lives of developers better while working collaboratively&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Feature branch - Normally we don’t develop off of master, each project would have its own rules but if you see Feature Branch - this is a branch created off of master for the change you’re making (can be a bug/functionality/feature change) and where you will be doing all of your code changes&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Pull Request (PR) - Once you are satisfied with your feature branch, you’d go back to GitHub and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;compare changes to create a Pull Request&lt;/code&gt; where the files from &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;master&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;main&lt;/code&gt; branch in the repo will be compared with your files and the changes will be highlighted for anybody to review and/or approve so that it can merged into &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;main&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;master&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;to-keep-in-mind&quot;&gt;To keep in mind&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Make sure to create a GitHub account and sign up for Hacktoberfest21 in the website&lt;/li&gt;
+  &lt;li&gt;Also take a look at the &lt;a href=&quot;https://hacktoberfest.digitalocean.com/events&quot;&gt;list of events&lt;/a&gt; that folks are hosting for Hacktoberfest21 - there are many online events and workshops for Hacktoberfest generally so defintely check these out!&lt;/li&gt;
+  &lt;li&gt;May help to know a bit about Git CLI or GitHub PR process (else you can learn it on the go!)&lt;/li&gt;
+  &lt;li&gt;Good to think about what tech and language you’re most comfortable developing in (in case you want to fix issues or work on features)&lt;/li&gt;
+  &lt;li&gt;Get familiar with the terminal and have a code editor/IDE of your preference.&lt;/li&gt;
+  &lt;li&gt;Join the Discord sever for Hacktoberfest!&lt;/li&gt;
+  &lt;li&gt;Have an open mind and an eagerness to learn and be proud of your work :)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;things-you-may-learn-with-your-contributions-to-an-open-source-project&quot;&gt;Things you may learn with your contributions to an open source project&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;How to fork a repo&lt;/li&gt;
+  &lt;li&gt;Git workflow
+    &lt;ul&gt;
+      &lt;li&gt;Create branch&lt;/li&gt;
+      &lt;li&gt;Make changes&lt;/li&gt;
+      &lt;li&gt;Compare with main branch and open PR&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;How to submit a PR&lt;/li&gt;
+  &lt;li&gt;How to communicate roadblocks/knowledge gaps to others&lt;/li&gt;
+  &lt;li&gt;Collaborate with folks seasoned in software engineering&lt;/li&gt;
+  &lt;li&gt;Best pratices with the technology you’re working with&lt;/li&gt;
+  &lt;li&gt;Learning to learn and also be comfortable with starting off with very less details&lt;/li&gt;
+  &lt;li&gt;Knowing more about the open source community&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;some-general-repository-rules-you-may-find&quot;&gt;Some general repository rules you may find&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Read the new contributor guidelines&lt;/li&gt;
+  &lt;li&gt;Read the pre-requisites/machine setup within the project README&lt;/li&gt;
+  &lt;li&gt;If you’re stuck, best to ask :) If it’s a small project you may be able to @ the person who created the issue/the maintainer. For larger projects, you may have a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;reviewers&lt;/code&gt; tag or some detailed guidelines about who to reach out to.&lt;/li&gt;
+  &lt;li&gt;If an issue/bug/feature already has recent comments or has been claimed recently, best to move to another issue - there’s a world full of other issues/features that needs your help :)&lt;/li&gt;
+  &lt;li&gt;Always keep your local &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;main&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;master&lt;/code&gt; branch in sync with the remote one.&lt;/li&gt;
+  &lt;li&gt;Be kind and respectful to the maintainers of the repositories - they will have to approve/comb through and leave review comments on so many PRs, so as budding open source contributors (or veterans), it’s our job to make sure we keep things clean and spread kindess to the maintainers and other contributors!&lt;/li&gt;
+  &lt;li&gt;Also, make sure the repository you want to contribute has the topic &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;hacktoberfest&lt;/code&gt; on its page.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;im-a-complete-beginner-what-can-i-work-on&quot;&gt;I’m a complete beginner, what can I work on?&lt;/h2&gt;
+
+&lt;p&gt;First off, pat yourself on the back for wanting to contribute to open source and to give your time for this! You’ve taken the first step and are here now :) Now, let’s talk options.&lt;/p&gt;
+
+&lt;p&gt;DISCLAIMER - some/all of the options mentioned below need to first be checked with the maintainer(s) of the repo and then done.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Most mid-sized projects lack proper documentation/may have some stuff to be changed within the README and docs. Now’s your time to shine, pick that work up and do it so that other developers thank you for it later on. Documentation is perhaps one of the most important tools to any developer out there, including yourself.&lt;/li&gt;
+  &lt;li&gt;Tests :) that’s right. Check if the project has sufficient test coverage or may need some love with some tests and work on them.&lt;/li&gt;
+  &lt;li&gt;Code quality - check if you can write existing code cleaner and also be ready to show why your way of writing that code snippet is cleaner :)&lt;/li&gt;
+  &lt;li&gt;Start by working on bugs/issues that are open and may contain the label &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;good first issue&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;first timers only&lt;/code&gt; or something like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;issue size: small&lt;/code&gt; showing an indication that it is a small issue.&lt;/li&gt;
+  &lt;li&gt;You got this, don’t worry!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hmm, what else?&lt;/p&gt;
+
+&lt;p&gt;What are we waiting for, let’s get started! Happy Hacktoberfest and make sure to have a lot of fun while you’re coding away!&lt;/p&gt;</content><author><name>Chethana Gopinath</name></author><category term="others" /><category term="jekyll" /><category term="update" /><summary type="html">Hi there!</summary></entry><entry><title type="html">Welcome to Hacktoberfest 2021</title><link href="/hacktoberfest21/others/jekyll/update/2021/09/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Hacktoberfest 2021" /><published>2021-09-20T00:00:00+00:00</published><updated>2021-09-20T00:00:00+00:00</updated><id>/hacktoberfest21/others/jekyll/update/2021/09/20/welcome-to-jekyll</id><content type="html" xml:base="/hacktoberfest21/others/jekyll/update/2021/09/20/welcome-to-jekyll.html">&lt;h1 id=&quot;hacktoberfest&quot;&gt;Hacktoberfest&lt;/h1&gt;
+&lt;p&gt;Hacktoberfest is near and Women Who Code wants to help it’s members contribute this year. Learn how to do so..&lt;/p&gt;
+
+&lt;h2 id=&quot;open-source-contributions-why-do-it&quot;&gt;Open Source Contributions: Why do it?&lt;/h2&gt;
+&lt;p&gt;Open Source Contributions are a great way for beginners to wet their feet into the world of coding. 
+OSS is all around us, from Linux systems we use everyday to the tools we use for code development. 
+Contributing to OSS is a great way to be a part of an ecosystem which nutures growth and helps you be a part of a bigger picture.&lt;/p&gt;
+
+&lt;p&gt;Open Source can be a way to hone your skills, share them and also gain a deeper understanding of the stack. On top of that, it can help build your portfolio and build your career. Last but not the least, it is fun and gives you the satisfaction of achieveing something great.&lt;/p&gt;
+
+&lt;p&gt;If we have got you excited, let us check how to contribute to open source:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Blogs or Tutorials: If you are using a software tool or package, share your best practices or maybe even a fun example with the community. Another way to contribute, is to transalate projects/blogs to your native language. It will help a lot of other folks break into tech.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Be a Mentor or Answer Questions: If you love to explain things and want to give back to the community, mentorship is a great place to start. You can be a mentor to someone contributing for the first time during &lt;a href=&quot;https://hacktoberfest.digitalocean.com/&quot;&gt;Hacktoberfest&lt;/a&gt;. We are always looking for mentors, click &lt;a href=&quot;https://forms.gle/hP8WzDH4KKHsz1S87&quot;&gt;here&lt;/a&gt;. You can also answer questions on Stackoverflow or other platforms.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Contribute to a Github Repository: There are various ways to target a Github Repo. You can change the decription of the project, add example to show how the code works or even see if the code needs changes/improvement. Hacktoberfest(https://hacktoberfest.digitalocean.com/resources) is a great place to start and that is why in this month, we will be helping you with resources and mentors to make a head start into your first contribution!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Don’t forget to sign up to our Women Who Code Technical Tracks&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.womenwhocode.com/python&quot;&gt;Women Who Code Python&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.womenwhocode.com/cloud&quot;&gt;Women Who Code Cloud&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.womenwhocode.com/datascience&quot;&gt;Women Who Code Data Science&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.womenwhocode.com/blockchain&quot;&gt;Women Who Code Blockchain&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.womenwhocode.com/mobile&quot;&gt;Women Who Code Mobile&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.womenwhocode.com/frontend&quot;&gt;Women Who Code Frontend&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/hacktoberfest21/img/mainblog.png&quot; width=&quot;1000&quot; height=&quot;500&quot; /&gt;&lt;/p&gt;</content><author><name>Women Who Code</name></author><category term="others" /><category term="jekyll" /><category term="update" /><summary type="html">Hacktoberfest Hacktoberfest is near and Women Who Code wants to help it’s members contribute this year. Learn how to do so..</summary></entry></feed>
